@@ -1,0 +1,26 @@
+.display-font-weight {
+  padding: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: rgb(216, 16, 160);
+  font-weight: bolder;
+  background: black;
+
+
+}
+
+.display-font-size {
+
+  padding: bold;
+  margin-top: 10px;
+  color: rgb(21, 199, 178);
+  font-weight: bolder;
+  outline-style: inherit;
+}
+
+.display-color-size {
+  color: rgb(255, 254, 254);
+  font-weight: bolder;
+  background-color: rgb(216, 16, 160);
+
+}
